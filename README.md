@@ -1,4 +1,3 @@
-# tp
 
 This repository represents my journey in learning Flutter.
 
