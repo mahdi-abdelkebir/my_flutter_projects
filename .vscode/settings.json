@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/runner"
+}
